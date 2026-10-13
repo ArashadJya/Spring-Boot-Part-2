@@ -1,0 +1,11 @@
+package com.arashad.main.service;
+
+public class UserServiceImpl implements userService{
+	
+	public User createUser(User user) {
+		return null;
+		
+	}
+	
+
+}

@@ -1,0 +1,11 @@
+Refactoring.savealleditors=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.arashad.main.beans.student"><rhs name\="com.arashad.main.beans.student"/></lhs><lhs name\="com.arashad.main.beans.Address"><rhs name\="com.arashad.main.beans.Address"/></lhs><lhs name\="com.arashad.main.beans.items"><rhs name\="com.arashad.main.beans.items"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="org.springframework.jdbc.core.namedparam.AbstractSqlParameterSource"><rhs name\="org.springframework.jdbc.core.namedparam.MapSqlParameterSource"/><rhs name\="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"/></lhs><lhs name\="org.springframework.jdbc.core.namedparam.SqlParameterSource"><rhs name\="org.springframework.jdbc.core.namedparam.MapSqlParameterSource"/><rhs name\="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"/></lhs><lhs name\="org.springframework.jdbc.core.namedparam.MapSqlParameterSource"><rhs name\="org.springframework.jdbc.core.namedparam.MapSqlParameterSource"/></lhs><lhs name\="com.arashad.main.beans.Items"><rhs name\="com.arashad.main.beans.Items"/></lhs><lhs name\="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"><rhs name\="org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource"/></lhs><lhs name\="java.util.SequencedCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/></lhs></history>
+content_assist_number_of_computers=14
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

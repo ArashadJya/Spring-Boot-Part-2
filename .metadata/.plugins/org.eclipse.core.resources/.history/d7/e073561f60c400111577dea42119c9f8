@@ -1,0 +1,31 @@
+package com.arashad.main.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.arashad.main.entity.User;
+import com.arashad.main.service.UserServiceImpl;
+import com.arashad.main.service.userService;
+
+@RestController
+public class myController {
+	
+	@Autowired
+	private userService userServices;
+	
+	@PostMapping("/user")
+	 public User addUserDetails(@RequestBody User user) {
+		 
+		 return userServices.createUser(user);
+	 }
+	 @GetMapping("/user")
+	public List<User> getAllUserDetails(){
+		return userServices.getAllUser();
+	}
+
+}

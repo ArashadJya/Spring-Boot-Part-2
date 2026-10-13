@@ -1,0 +1,12 @@
+package com.arashad.main.service;
+
+import java.util.List;
+
+import com.arashad.main.entity.User;
+
+public interface userService {
+	
+	public User createUser(User user);
+	public List<User> getAllUser();
+
+}

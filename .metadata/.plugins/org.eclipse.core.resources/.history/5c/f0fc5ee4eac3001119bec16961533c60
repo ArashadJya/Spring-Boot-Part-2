@@ -1,0 +1,5 @@
+package com.arashad.main.service;
+
+public interface userService {
+
+}

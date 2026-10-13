@@ -1,0 +1,9 @@
+package com.arashad.main.service;
+
+import com.arashad.main.entity.User;
+
+public interface userService {
+	
+	public User createUser(User user);
+
+}

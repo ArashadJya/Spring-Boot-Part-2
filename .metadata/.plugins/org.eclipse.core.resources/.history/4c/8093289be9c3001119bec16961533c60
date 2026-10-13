@@ -1,0 +1,5 @@
+package com.arashad.main.repository;
+
+public interface userRepository {
+
+}

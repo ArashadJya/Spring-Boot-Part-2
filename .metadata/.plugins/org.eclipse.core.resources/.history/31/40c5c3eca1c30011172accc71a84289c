@@ -1,0 +1,5 @@
+package com.arashad.main.entity;
+
+public class User {
+
+}
